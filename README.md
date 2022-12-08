@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+# Authors: Samara Mohsin and Samra Almas 
+ we had very little idea about react so we used some video tutorial .
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
